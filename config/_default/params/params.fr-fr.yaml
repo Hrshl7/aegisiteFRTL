@@ -1,0 +1,115 @@
+# Meta Data for SEO
+
+## Homepage
+title: Aegisub
+titleSeparator: '-'
+titleAddition: Aegisub Editeur Avancé de Sous-titres
+description: >-
+  Aegisub est un outil gratuit, multiplateforme et open source pour créer et
+  modifier des sous-titres. Aegisub permet de synchroniser rapidement et
+  facilement les sous-titres à l’audio, et possède de nombreux outils puissants
+  pour les styliser, dont une prévisualisation intégrée des vidéos en temps-réel.
+
+## Documentation
+# docsVersion = "0.3"
+
+## Open Graph
+images:
+  - img/logo.png
+ogLocale: fr_FR
+domainTLD: aegisub.org
+titleHome: Aegisub
+
+## Twitter Cards
+twitterSite: '@aegisub'
+#twitterCreator: '@henkverlinde'
+
+## JSON-LD
+# schemaType = "Person"
+schemaType: Organization
+schemaName: Aegisub
+#schemaAuthor: Henk Verlinde
+#schemaAuthorTwitter: 'https://twitter.com/henkverlinde'
+#schemaAuthorLinkedIn: 'https://www.linkedin.com/in/henkverlinde/'
+#schemaAuthorGitHub: 'https://github.com/h-enk'
+schemaLocale: fr-FR
+schemaLogo: logo-aegisub.png
+schemaLogoWidth: 512
+schemaLogoHeight: 512
+schemaImage: img/logo-1280.png
+schemaImageWidth: 1280
+schemaImageHeight: 499
+schemaTwitter: 'https://twitter.com/aegisub'
+schemaLinkedIn: ''
+schemaGitHub: 'https://github.com/TypesettingTools/Aegisub'
+schemaSection: blog
+
+## Sitelinks Search Box
+siteLinksSearchBox: false
+
+## Chrome Browser
+themeColor: '#fff'
+
+# Images
+quality: 85
+bgColor: '#fff'
+landscapePhotoWidths:
+  - 900
+  - 800
+  - 700
+  - 600
+  - 500
+portraitPhotoWidths:
+  - 800
+  - 700
+  - 600
+  - 500
+lqipWidth: 20x
+smallLimit: '300'
+
+# TODO: Maybe mention Hosting? NetworkRedux? Github Pages? Cloudflare Pages?
+# Footer
+footer: >-
+  Propulsé par <a class="text-muted" href="https://gohugo.io/">Hugo</a> et <a
+  class="text-muted" href="https://getdoks.org/">Doks</a>. <br/>
+  Copyright (c) AegiSite <a href="https://github.com/Aegisub/aegisite/graphs/contributors">contributeurs</a>.
+
+# Feed
+# copyRight: Copyright (c) 2020-2021 Henk Verlinde
+
+# Alert
+alert: true
+alertDismissable: true
+alertText: >-
+  <a href="/blog/aegisub-3.4.0-released/">Aegisub 3.4.0 publié !</a>
+
+# Edit Page
+# repoHost [Github | Gitea | GitLab | Bitbucket | BitbucketServer ] is used for building the edit link based on git hoster
+repoHost: GitHub
+#repoHost: "Gitea"
+docsRepo: 'https://github.com/TypesettingTools/Aegisub'
+docsRepoBranch: master
+docsRepoSubPath: ''
+editPage: false
+lastMod: false
+
+options:
+  clipBoard: true
+  instantPage: true
+  flexSearch: false
+  darkMode: true
+  bootStrapJs: true
+  breadCrumb: false
+  highLight: true
+  kaTex: false
+  multilingualMode: true
+  docsVersioning: false
+  fullWidth: true
+  navbarSticky: true
+  toTopButton: false
+  scrollSpy: false
+
+menu:
+  section:
+    auto: false
+    collapsibleSidebar: true
