@@ -34,3 +34,12 @@ tr-tr:
     languageISO: TR
     languageTag: tr-TR
     dateFormat: "2 January 2006"
+
+fr-fr:
+  languageName: Français
+  contentDir: content/fr-fr
+  weight: 15
+  params:
+    languageISO: FR
+    languageTag: fr-FR
+    dateFormat: "2 January 2006"
