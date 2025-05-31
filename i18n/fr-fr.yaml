@@ -1,0 +1,50 @@
+- id: get-started
+  translation: "Démarrer"
+
+- id: on-this-page
+  translation: "Sur cette page"
+
+- id: menu-overview
+  translation: "Aperçu"
+
+- id: search-text
+  translation: "Rechercher docs..."
+
+- id: 404-title
+  translation: "Page non trouvée :("
+
+- id: 404-text
+  translation: "La page que vous cherchez n'existe pas ou a été déplacée."
+
+- id: browse
+  translation: "Parcourir"
+
+- id: bsd-license
+  translation: "Licences libres de type BSD."
+
+- id: example
+  translation: "Exemple"
+
+- id: language
+  translation: "Langue"
+
+- id: type
+  translation: "Type"
+
+- id: notes
+  translation: "Notes"
+
+- id: file
+  translation: "Fichier"
+
+- id: md5
+  translation: "MD5"
+
+- id: and
+  translation: "et"
+
+- id: comma
+  translation: ", "
+
+- id: post-metainfo
+  translation: "Posté le {{ .date }} par {{ .authors }} – <strong>{{ .readingTime }} min de lecture</strong>"
