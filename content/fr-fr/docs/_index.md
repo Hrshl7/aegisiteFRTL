@@ -5,7 +5,7 @@ type: simple-page
 
 <p>
 <br />
-<a href="{{< relref path="docs">}}latest/" class="btn btn-primary" role="button">Manuel 3.4</a> Manuel d'utilisation actuel.
+<a href="{{< relref path="docs">}}latest/" class="btn btn-primary" role="button">Manuel 3.4</a> Manuel d'utilisation actuel (3.4).
 </p>
 <p>
 <br />
