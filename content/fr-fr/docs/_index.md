@@ -1,5 +1,5 @@
 ---
-title: Documentación Aegisub
+title: Documentation Aegisub
 type: simple-page
 ---
 
