@@ -29,7 +29,7 @@ Outils de typographie visuelle
   - Vous voulez ré-utiliser la typographie sur une vidéo d'une résolution ou de ratio d'aspect différent ? Vous ne savez pas quelle couleur ce signe utilise ? Aegisub a les outils pour vous aider avec ça.
 
 Mode de synchronisation intuitif et personnalisable
-: - Synchrinisez le dialogue ou le karaoké de la manière que vous voulez avec l'interface audio hautement personnalisable ! Utilisez des fonctionnalités tel que mode d'analyseur de spectre ou le post-processeur de synchronisation automatique pour une synchronisation plus efficace.
+: - Synchronisez le dialogue ou le karaoké de la manière que vous voulez avec l'interface audio hautement personnalisable ! Utilisez des fonctionnalités tel que mode d'analyseur de spectre ou le post-processeur de synchronisation automatique pour une synchronisation plus efficace.
   - Prise en charge opur presque tout les formats audio existent, et une prise en charge de DirectShow si vous arrivez à en trouver un trop obscure pour libavcodec.
 
 Complètement scriptable via le module d'Automatisation
