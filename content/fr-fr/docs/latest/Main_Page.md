@@ -19,7 +19,7 @@ La documentation sur le développement d'Aegisub et la construction d'Aegisub es
 **Utilisations courantes:**
 
 - [Synchroniser un script traduit à l'audio]({{<relref path="Audio">}})
-- [Typographie basique de signes à l'écran]({{<relref path="Tutorials#typgraphievisuelle">}})
+- [Typographie basique de signes à l'écran]({{<relref path="Tutorials#typographievisuelle">}})
 - [Placer vos sous-titres sur la vidéo]({{<relref path="Attaching_subtitles_to_video">}}) (pour la visualisation ou distribution)
 
 <!-- -->
