@@ -15,7 +15,7 @@ Vous voulez soutenir Aegisub ? Eh bien, c'est simple !
 Vous pouvez nous donnez des retours - commentaires, critiques,
 suggestions, etc. Les rapports de bogues et demandes de nouvelles
 foncitonnalités sont toujours les bienvenues. Consultez notre
-[forums](http://forums.aegisub.org) et le [suivi des bogues](http://devel.aegisub.org/),
+[serveur Discord](https://discord.gg/AZaVyPr) et le [suivi des bogues](https://github.com/TypesettingTools/Aegisub/issues),
 ou venez discuter dans la [chaîne IRC](irc://irc.rizon.net/aegisub).
 
 ### Faites passer le mot
